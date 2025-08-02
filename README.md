@@ -99,3 +99,13 @@ The backend provides the following RESTful API endpoints:
 * `GET /`: Get all tasks for the logged-in user (Protected).
 * `PUT /:id`: Update a specific task (Protected).
 * `DELETE /:id`: Delete a specific task (Protected).
+
+
+### Register Page
+<img width="1917" height="1085" alt="image" src="https://github.com/user-attachments/assets/c4b86460-5025-4a0e-8364-adb2eeabbec3" />
+
+### Login page
+<img width="1917" height="1085" alt="image" src="https://github.com/user-attachments/assets/586579a3-8f56-4c0a-bf41-298d415ad2ca" />
+
+### DashBoard
+<img width="1801" height="988" alt="image" src="https://github.com/user-attachments/assets/11b3d1be-8222-47e8-881f-b4e79509d2bd" />
